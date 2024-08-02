@@ -1,2 +1,2 @@
 # Restaurante
-Trabalho academico da materia de Programação Modular, consiste em treinar tecnicas de Programação orienta a objetos, Design Patterns, funcionalidades do java e outros topicos
+Trabalho acadêmico da disciplinar de Programação Modular, consiste em treinar técnicas de Programação Orientada a Objetos, Design Patterns, funcionalidades do java e outros topicos
