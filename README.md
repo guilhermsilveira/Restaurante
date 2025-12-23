@@ -25,3 +25,11 @@
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+## 🔗 Links Úteis
+* 🌐 **Tenant de Demonstração:** [Acesse o Ambiente JDS Dev](https://jdsdev.rhapido.app)
+  > 💻 **Descrição:** Exemplo real de um tenant rodando na plataforma (Ambiente de Produção).
+* 🏢 **Landing Page:** [Conheça o RHapido](https://rhapido.com.br)
+  > 💼 **Descrição:** Portal comercial e institucional para contratação dos serviços.
+* 📖 **Documentação Técnica:** [Acesse a Wiki/Docs](./docs)
+  > 📚 **Descrição:** Documentação completa de infraestrutura, deploy e arquitetura disponível na pasta `/docs` deste repositório.
