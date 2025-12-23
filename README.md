@@ -17,3 +17,11 @@
     </td>
   </tr> 
 </table>
+
+## 🚧 Status do Projeto
+
+[![Versão](https://img.shields.io/badge/Versão-v1.0.1-blue?style=for-the-badge)](https://github.com/seu-usuario/seu-repo/releases)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
